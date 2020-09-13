@@ -25,7 +25,7 @@ SECRET_KEY = 'xiw!5_4hjmh+86osu4q*_6$!)s8$8$=@90!&04dhc88$tqr(cw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['malweather.herokuapp.com']
+ALLOWED_HOSTS = ['malweather.herokuapp.com','127.0.0.1' ]
 
 
 # Application definition
